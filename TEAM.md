@@ -10,7 +10,7 @@
 
 **Team members:** Martina Puentes 6 Xavier Gutiérrez
 
-**u233714 - Xavier Gutiérrez i Arnau - xavier.gutiérrez01@estudiant.upf.edu - XaviGuti25**
+**u233714 - Xavier Gutiérrez i Arnau - xavier.gutierrez01@estudiant.upf.edu - XaviGuti25**
 * Student 2's Student number - Full Name - Student email - Student Github id
 
 
